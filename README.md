@@ -5,14 +5,13 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
-  * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Future scope of project](#future-scope)
 
 
 ## Demo
 
-[![](https://github.com/supriyabce/flight_price_prediction/blob/main/screencapture.png)
+[!(https://github.com/Supriyabce/flight_price_prediction/blob/main/screencapture.png)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
@@ -25,13 +24,6 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 ```bash
 pip install -r requirements.txt
 ```
-
-## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
-
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
-
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
 ## Directory Tree 
 ```
