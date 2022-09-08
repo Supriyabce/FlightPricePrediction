@@ -11,7 +11,7 @@
 
 ## Demo
 
-[!(https://github.com/Supriyabce/flight_price_prediction/blob/main/screencapture.png)
+![](https://github.com/Supriyabce/flight_price_prediction/blob/main/screencapture.png)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
