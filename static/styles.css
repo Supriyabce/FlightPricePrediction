@@ -1,0 +1,26 @@
+.card-title
+{
+    background-color: #ffe0cc;
+}
+.card-body
+{
+	background-color: #f0f008;
+}
+body 
+{
+    background-image:  url("flight.jpg") ;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+.navbar 
+{
+    background-color: #333333;
+}
+a{
+    color: #22e2e2;
+}
+
+a:hover{
+    color: #411111;
+}
